@@ -8,6 +8,7 @@ namespace GITShow
 {
     class Program
     {
+        //注释
         static void Main(string[] args)
         {
         }
